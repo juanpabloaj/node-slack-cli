@@ -7,6 +7,10 @@
     "test": "mocha"
   },
   "author": "juanpablo <jpabloaj@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juanpabloaj/node-slack-cli.git"
+  },
   "license": "MIT",
   "dependencies": {
     "minimist": "^1.1.0",
