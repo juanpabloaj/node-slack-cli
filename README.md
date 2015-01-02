@@ -12,6 +12,8 @@ To send to [slack.com](https://slack.com/) you need set the SLACK TOKEN as envir
 
     export SLACK_TOKEN="slack-token"
 
+You can get the Slack token from [https://api.slack.com/web#auth](https://api.slack.com/web#auth)
+
 ## Usage
 
     slack -c slackChannelName -m "message to send"
