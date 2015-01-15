@@ -18,3 +18,6 @@ You can get the Slack token from [https://api.slack.com/web#auth](https://api.sl
 
     slack -c slackChannelName -m "message to send"
 
+Set a username
+
+    slack -c slackChannelName -m "message to send" -u myUsername
