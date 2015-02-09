@@ -1,5 +1,7 @@
 # node-slack-cli
 
+[![npm version](https://badge.fury.io/js/node-slack-cli.svg)](http://badge.fury.io/js/node-slack-cli)
+
 Send messages to [slack.com](https://slack.com/) from command line with nodejs.
 
 ## Install
